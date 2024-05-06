@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.84046513.css",
-    "main.js": "/static/js/main.37f0f205.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/app2.jpeg": "/static/media/app2.ce563871d3000302f8b6.jpeg",
-    "static/media/app1.JPG": "/static/media/app1.fa2301c9749d0f7aeaf0.JPG",
-    "static/media/fran.jpg": "/static/media/fran.ad42a7385ca0e38a8e89.jpg",
-    "static/media/Francisco-Cavelli-es.pdf": "/static/media/Francisco-Cavelli-es.67afb8844553a5c5b4bd.pdf",
-    "static/media/english.png": "/static/media/english.b7a9f22e13a470d6427b.png",
-    "static/media/sass.png": "/static/media/sass.edc8054483a3d72c36d7.png",
-    "static/media/python.png": "/static/media/python.640855223f538a62b464.png",
-    "static/media/css.png": "/static/media/css.6b18405d4c80731379e9.png",
-    "static/media/jquery.png": "/static/media/jquery.730371a6c149adec597d.png",
-    "static/media/html.png": "/static/media/html.78b25b89f6974f6573cd.png",
-    "index.html": "/index.html",
-    "main.84046513.css.map": "/static/css/main.84046513.css.map",
-    "main.37f0f205.js.map": "/static/js/main.37f0f205.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.84046513.css",
+    "main.js": "/portfolio/static/js/main.75c2667f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/app2.jpeg": "/portfolio/static/media/app2.ce563871d3000302f8b6.jpeg",
+    "static/media/app1.JPG": "/portfolio/static/media/app1.fa2301c9749d0f7aeaf0.JPG",
+    "static/media/fran.jpg": "/portfolio/static/media/fran.ad42a7385ca0e38a8e89.jpg",
+    "static/media/Francisco-Cavelli-es.pdf": "/portfolio/static/media/Francisco-Cavelli-es.67afb8844553a5c5b4bd.pdf",
+    "static/media/english.png": "/portfolio/static/media/english.b7a9f22e13a470d6427b.png",
+    "static/media/sass.png": "/portfolio/static/media/sass.edc8054483a3d72c36d7.png",
+    "static/media/python.png": "/portfolio/static/media/python.640855223f538a62b464.png",
+    "static/media/css.png": "/portfolio/static/media/css.6b18405d4c80731379e9.png",
+    "static/media/jquery.png": "/portfolio/static/media/jquery.730371a6c149adec597d.png",
+    "static/media/html.png": "/portfolio/static/media/html.78b25b89f6974f6573cd.png",
+    "index.html": "/portfolio/index.html",
+    "main.84046513.css.map": "/portfolio/static/css/main.84046513.css.map",
+    "main.75c2667f.js.map": "/portfolio/static/js/main.75c2667f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84046513.css",
-    "static/js/main.37f0f205.js"
+    "static/js/main.75c2667f.js"
   ]
 }
